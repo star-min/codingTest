@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16f5b834-4a6f-47ab-ab01-88f7ceac6805" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10384_팬그램.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14470_전자레인지.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,7 +51,7 @@
       <recent name="E:\java\codingTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10384_팬그램">
+  <component name="RunManager" selected="Python.14470_전자레인지">
     <configuration name="10384_팬그램" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5598_카이사르암호" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14470_전자레인지" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,7 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5598_카이사르암호.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14470_전자레인지.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.14470_전자레인지" />
         <item itemvalue="Python.10384_팬그램" />
         <item itemvalue="Python.9093_단어뒤집기" />
         <item itemvalue="Python.1100_하얀칸" />
         <item itemvalue="Python.8958_OX문제" />
-        <item itemvalue="Python.5598_카이사르암호" />
       </list>
     </recent_temporary>
   </component>
