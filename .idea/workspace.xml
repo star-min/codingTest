@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16f5b834-4a6f-47ab-ab01-88f7ceac6805" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1149_RGB거리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1303_전투.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="E:\java\codingTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1010_다리놓기">
+  <component name="RunManager" selected="Python.1303_전투">
     <configuration name="1000_A+B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10869_사칙연산" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1303_전투" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="codingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10869_사칙연산.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1303_전투.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1303_전투" />
         <item itemvalue="Python.1010_다리놓기" />
         <item itemvalue="Python.1018_체스판다시칠하기" />
         <item itemvalue="Python.1001_A-B" />
         <item itemvalue="Python.1000_A+B" />
-        <item itemvalue="Python.10869_사칙연산" />
       </list>
     </recent_temporary>
   </component>
