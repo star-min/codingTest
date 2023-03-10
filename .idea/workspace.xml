@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16f5b834-4a6f-47ab-ab01-88f7ceac6805" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1181_단어정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1330_두수비교하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
